@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272992814705",
+    "project_id": "mijanmunsahib",
+    "storage_bucket": "mijanmunsahib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272992814705:android:e575460cbf8a2ab278fdd0",
+        "android_client_info": {
+          "package_name": "com.example.mizan_munshaib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKK-tunYWSxdvVd9w5jySK0cjSyd9AQyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
